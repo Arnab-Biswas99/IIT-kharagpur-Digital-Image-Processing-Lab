@@ -1,0 +1,1 @@
+In this folder I have stored the output images of the histogram equalised images and the histogram matched image. Here, Source.cpp is the code for histogram equalized image and Source2.cpp is the code for histogram matched image.
