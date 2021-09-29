@@ -1,0 +1,1 @@
+Run the bitmap.cpp to execute the code. Output files are present in the folder. The functions which are used in this are openbmpfile, rotate90, Flipped, createBWImage, rotate45, scaled.
